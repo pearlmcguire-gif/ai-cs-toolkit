@@ -1,0 +1,17 @@
+{
+  "account_name": "Solstice Retail Group",
+  "segment": "Enterprise",
+  "arr": 250000,
+  "primary_use_case": "Multi-location retail analytics, unify POS, e-commerce, and CRM data into one reporting layer for regional ops leaders",
+  "executive_sponsor": "VP of Retail Operations",
+  "day_to_day_stakeholders": ["Regional IT Lead", "3x Store Operations Managers", "Data & Analytics Analyst"],
+  "target_go_live_days": 45,
+  "integrations_required": ["POS system (Lightspeed)", "Shopify", "Salesforce"],
+  "user_seats": 22,
+  "locations": 14,
+  "contract_start_date": "2026-08-11",
+  "known_risks": [
+    "IT lead is also supporting an unrelated ERP migration through September",
+    "Store Ops Managers have limited bandwidth for training outside of the first two weeks of the month"
+  ]
+}
