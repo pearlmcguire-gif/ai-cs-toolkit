@@ -23,6 +23,6 @@ Churn Radar scores the accounts. Its results feed the Weekly Leadership Digest a
 - No custom code is needed. The same steps can run in automation tools like Zapier, Make or n8n.
 - All sample data is **made up**. No real customer or employer data appears anywhere in this repository.
 
-Each project folder has a `README.md` (the problem and what to look for), the `SKILL.md`, sample input in `sample-data/`, and the output in `sample-output/` (open the `.html` files in a browser).
+Each project folder has a `README.md` (the problem and what to look for), the `SKILL.md`, sample input in `sample-data/`, and the output in `sample-output/` (See the live demos Churn Radar: (https://pearlmcguire-gif.github.io/ai-cs-toolkit/01-customer-health-score-churn-radar/sample-output/churn-radar-dashboard.html) Onboarding Concierge link: (https://pearlmcguire-gif.github.io/ai-cs-toolkit/02-onboarding-concierge/sample-output/solstice-retail-onboarding-plan.html) Weekly Digest Link: (https://pearlmcguire-gif.github.io/ai-cs-toolkit/03-weekly-leadership-digest/sample-output/weekly-digest-2026-08-11.html) ).
 
 Start with [Churn Radar](01-customer-health-score-churn-radar/). The other three build on it.
