@@ -12,7 +12,7 @@
 
 ## Sample run
 
-[`sample-output/solstice-retail-onboarding-plan.html`](sample-output/solstice-retail-onboarding-plan.html) plans onboarding for a made-up retailer with 14 locations, 3 integrations, and an IT lead busy with another system migration. The plan:
+[`sample-output/solstice-retail-onboarding-plan.html`](https://pearlmcguire-gif.github.io/ai-cs-toolkit/02-onboarding-concierge/sample-output/solstice-retail-onboarding-plan.html) plans onboarding for a made-up retailer with 14 locations, 3 integrations, and an IT lead busy with another system migration. The plan:
 
 - Does the two easier integrations first, and schedules the hardest one for when the IT lead is free.
 - Fits training around the store managers' available times.
