@@ -11,7 +11,7 @@
 
 ## Sample run
 
-[`sample-output/weekly-digest-2026-08-11.html`](sample-output/weekly-digest-2026-08-11.html) uses the same 15 made-up accounts as Churn Radar. The digest:
+[`sample-output/weekly-digest-2026-08-11.html`](https://pearlmcguire-gif.github.io/ai-cs-toolkit/03-weekly-leadership-digest/sample-output/weekly-digest-2026-08-11.html) uses the same 15 made-up accounts as Churn Radar. The digest:
 
 - Turns each critical account into a specific request, such as "15 minutes for an executive-to-executive call."
 - Points out that one team member carries 3 of the 7 critical renewals, as a staffing question.
