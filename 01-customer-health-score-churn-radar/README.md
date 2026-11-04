@@ -12,7 +12,7 @@
 
 ## Sample run
 
-[`sample-output/churn-radar-dashboard.html`](sample-output/churn-radar-dashboard.html) scores 15 made-up accounts:
+[`sample-output/churn-radar-dashboard.html`](https://pearlmcguire-gif.github.io/ai-cs-toolkit/01-customer-health-score-churn-radar/sample-output/churn-radar-dashboard.html)) scores 15 made-up accounts:
 
 - 7 of the 15 are flagged Critical (high risk and renewing within 90 days). Together they hold $1.37M of the sample's $3.07M in annual recurring revenue.
 - Every flag shows its reasons, for example "usage down 22%, 11 tickets in 30 days, no executive review in 145 days."
